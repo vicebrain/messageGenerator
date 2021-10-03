@@ -110,8 +110,5 @@ songsList.push(addSong("pop artist 4", "song pop artist 4 3"));
 songsList.push(addSong("pop artist 4", "song pop artist 4 3"));
 
 
-
-console.log(list);
-
 //exporting our lists
 module.exports = {genresList, artistsList, songsList};
