@@ -17,4 +17,5 @@ index.js - contains all the logic behind choosing a random song.
 To run this project, install it locally and run it using node:
 
 $ cd ../folder
+
 $ node index.js
