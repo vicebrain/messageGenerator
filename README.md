@@ -14,7 +14,7 @@ songs_db.js - contains lists of genres, artists and songs.
 index.js - contains all the logic behind choosing a random song.
 
 ## Setup
-To run this project, install it locally and run it using node:
+To run this project, install it locally go to the folder and run index.js:
 
 $ cd ../folder
 
